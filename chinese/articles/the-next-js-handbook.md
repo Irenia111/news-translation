@@ -1,6 +1,6 @@
 > -  原文地址：[The Next.js Handbook](https://www.freecodecamp.org/news/the-next-js-handbook/)
 > -  原文作者：[Flavio Copes](https://www.freecodecamp.org/news/author/flavio/)
-> -  译者：
+> -  译者：Irenia111
 > -  校对者：
 
 ![The Next.js Handbook](https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/Group-1.png)
